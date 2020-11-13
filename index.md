@@ -1,20 +1,7 @@
-<!DOCTYPE html>
-<!-- ==============================
-    Project:        Metronic "Aircv" Frontend Freebie - Responsive HTML Template Based On Twitter Bootstrap 3.3.4
-    Version:        1.0
-    Author:         KeenThemes
-    Primary use:    Corporate, Business Themes.
-    Email:          support@keenthemes.com
-    Follow:         http://www.twitter.com/keenthemes
-    Like:           http://www.facebook.com/keenthemes
-    Website:        http://www.keenthemes.com
-    Premium:        Premium Metronic Admin Theme: http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
-================================== -->
 <html lang="en" class="no-js">
     <!-- BEGIN HEAD -->
     <head>
         <meta charset="utf-8"/>
-        <title>Metronic "Aircv" Frontend Freebie</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta content="width=device-width, initial-scale=1" name="viewport"/>
         <meta content="" name="description"/>
@@ -175,7 +162,7 @@
                                             <h3>HTML5/CSS3</h3>
                                             <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
                                         </div>
-                                        <a href="#" class="content-wrapper-link"></a>    
+                                        <a href="#" class="content-wrapper-link"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-4 md-margin-b-4">
@@ -187,7 +174,7 @@
                                             <h3 class="color-white">Photoshop</h3>
                                             <p class="color-white margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
                                         </div>
-                                        <a href="#" class="content-wrapper-link"></a>    
+                                        <a href="#" class="content-wrapper-link"></a>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
@@ -199,7 +186,7 @@
                                             <h3>Front-end</h3>
                                             <p class="margin-b-5">Lorem ipsum dolor amet consectetur ut consequat siad esqudiat dolor</p>
                                         </div>
-                                        <a href="#" class="content-wrapper-link"></a>    
+                                        <a href="#" class="content-wrapper-link"></a>
                                     </div>
                                 </div>
                             </div>
@@ -429,7 +416,7 @@
             </div>
         </div>
         <!-- End Work -->
-            
+
         <!-- Contact -->
         <div id="contact">
             <div class="bg-color-sky-light">
@@ -512,4 +499,5 @@
 
     </body>
     <!-- END BODY -->
+
 </html>
